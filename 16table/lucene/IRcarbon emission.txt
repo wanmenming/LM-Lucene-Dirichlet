@@ -1,0 +1,100 @@
+1 Voluntary Emission Reduction.txt 0.6746367 
+2 Weighted_average_cost_of_carbon.txt 0.5029582 
+3 Emission intensity.txt 0.49699903 
+4 Certified_Emission_Reduction.txt 0.43325272 
+5 Kaya_identity.txt 0.40782112 
+6 Joint_Implementation.txt 0.38802373 
+7 Emission_Reduction_Unit.txt 0.3790921 
+8 Carbon_emission_label.txt 0.32760417 
+9 Greenhouse_gas_inventory.txt 0.29484612 
+10 Clean_Development_Mechanism.txt 0.2902233 
+11 Carbon emission trading.txt 0.2897964 
+12 Carbon_dioxide_equivalent.txt 0.28654498 
+13 Chicago_Climate_Exchange.txt 0.2855486 
+14 Bio-energy_with_carbon_capture_and_storage.txt 0.27804965 
+15 Emission_standard.txt 0.2743742 
+16 Flexible_Mechanisms.txt 0.26838452 
+17 Carbon_offset.txt 0.2605089 
+18 Carbon_credit.txt 0.25766554 
+19 Emissions_trading.txt 0.25509563 
+20 Carbon-neutral fuel.txt 0.25351474 
+21 European Union Emission Trading Scheme.txt 0.2480683 
+22 Carbon neutrality.txt 0.24616714 
+23 Carbon sink.txt 0.24398768 
+24 California_Air_Resources_Board.txt 0.24366885 
+25 Carbon_footprint.txt 0.24030423 
+26 BedZED.txt 0.23641238 
+27 Carbon dioxide removal.txt 0.21841052 
+28 Carbon_accounting.txt 0.21767592 
+29 Low-carbon diet.txt 0.21713583 
+30 New European Driving Cycle.txt 0.21454626 
+31 Carbon_diet.txt 0.21341228 
+32 Exhaust_gas.txt 0.21197806 
+33 Carbon_capture_and_storage_(timeline).txt 0.20988102 
+34 Kyoto_Protocol.txt 0.20974071 
+35 Land_use,_land-use_change,_and_forestry.txt 0.20864399 
+36 Carbon_lock-in.txt 0.20129973 
+37 Atmospheric_methane.txt 0.19944477 
+38 Lake_Monoun.txt 0.19459419 
+39 Carbon.txt 0.19009209 
+40 Carbon_monoxide.txt 0.18747158 
+41 Carbon_Disclosure_Project.txt 0.18699399 
+42 Greenhouse gas.txt 0.18478832 
+43 Coal pollution mitigation.txt 0.18434772 
+44 Carbon_capture_and_storage_in_Australia.txt 0.1818777 
+45 Integrated gasification combined cycle.txt 0.1803439 
+46 Greenhouse gas footprint.txt 0.1797534 
+47 Fossil fuel power station.txt 0.17481396 
+48 Argon.txt 0.16865918 
+49 Biosequestration.txt 0.16318017 
+50 Climate change mitigation.txt 0.16177955 
+51 Carbon_dioxide.txt 0.15811451 
+52 Boundary_Dam_Power_Station.txt 0.15780583 
+53 Scanning electron microscope.txt 0.15591566 
+54 Carbon_dioxide_laser.txt 0.15443408 
+55 Climate_change_mitigation_scenarios.txt 0.15443408 
+56 Methanol_economy.txt 0.15443408 
+57 Carbon_sequestration.txt 0.15418775 
+58 Greenhouse_gas_emissions_accounting.txt 0.15272385 
+59 Avoiding Dangerous Climate Change (2005 conference).txt 0.1522041 
+60 Life-cycle_greenhouse-gas_emissions_of_energy_sources.txt 0.1517238 
+61 United Nations Framework Convention on Climate Change.txt 0.14485745 
+62 Permafrost.txt 0.14225122 
+63 Radiative_forcing.txt 0.1420032 
+64 Human_impact_on_the_environment.txt 0.14100087 
+65 Alkane.txt 0.1389602 
+66 Oxy-fuel combustion process.txt 0.1386744 
+67 2010 United Nations Climate Change Conference.txt 0.1340293 
+68 Environmental_impact_of_aviation.txt 0.13115475 
+69 Greenhouse_effect.txt 0.12879574 
+70 Life-cycle assessment.txt 0.12860593 
+71 Global_warming.txt 0.12790215 
+72 1,1,1,2-Tetrafluoroethane.txt 0.12683676 
+73 EcoCute.txt 0.12683676 
+74 Molecule.txt 0.12556198 
+75 Paleocene–Eocene Thermal Maximum.txt 0.124081045 
+76 Southern_Company.txt 0.12311367 
+77 Climate_engineering.txt 0.12199047 
+78 Carbon capture and storage.txt 0.121462226 
+79 Methanol.txt 0.12077983 
+80 Atom.txt 0.116909206 
+81 Atmosphere_of_Mars.txt 0.11615181 
+82 Indirect_land_use_change_impacts_of_biofuels.txt 0.11498268 
+83 Coal liquefaction.txt 0.112346895 
+84 Biofuel.txt 0.111540385 
+85 Energy_policy.txt 0.11093952 
+86 NOx.txt 0.10762456 
+87 Atmosphere_of_Earth.txt 0.10598903 
+88 Methane.txt 0.10447128 
+89 Infrared.txt 0.10405127 
+90 Extraterrestrial_atmosphere.txt 0.10259472 
+91 Anaerobic_digestion.txt 0.102500446 
+92 Fluorine.txt 0.102002874 
+93 Diesel_fuel.txt 0.101469405 
+94 Global_Methane_Initiative.txt 0.101469405 
+95 Combustion.txt 0.098702736 
+96 Cost of electricity by source.txt 0.095182866 
+97 Carbon Trust.txt 0.09478444 
+98 Carbon_cycle_re-balancing.txt 0.09478444 
+99 Open_Carbon_World.txt 0.09478444 
+100 Nitrogen.txt 0.09447254 

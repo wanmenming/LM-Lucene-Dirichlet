@@ -1,0 +1,100 @@
+1 Whitefly.txt 0.27560145 
+2 Agriculture.txt 0.2518372 
+3 Rice.txt 0.23425138 
+4 Organic_farming.txt 0.1570893 
+5 Spider_mite.txt 0.15226339 
+6 Ecosystem.txt 0.13021219 
+7 Nonpoint_source_pollution.txt 0.11989429 
+8 BASF.txt 0.11389337 
+9 Water_pollution.txt 0.10204708 
+10 Ecological_economics.txt 0.0911147 
+11 Greenhouse gas.txt 0.088970505 
+12 Greenhouse_debt.txt 0.08376666 
+13 Kaya_identity.txt 0.08016458 
+14 Plantation.txt 0.07522109 
+15 Orange (fruit).txt 0.073685385 
+16 California_Air_Resources_Board.txt 0.06685408 
+17 Landfill_gas.txt 0.06685408 
+18 Emission_standard.txt 0.06473119 
+19 Land_use.txt 0.06417605 
+20 Carbon_credit.txt 0.063857906 
+21 Climate_engineering.txt 0.063857906 
+22 Greenhouse_effect.txt 0.06149865 
+23 Climate change mitigation.txt 0.0606172 
+24 United Nations Framework Convention on Climate Change.txt 0.06043624 
+25 List_of_countries_by_greenhouse_gas_emissions_per_capita.txt 0.059938535 
+26 Biodiversity.txt 0.058899816 
+27 Atmospheric_methane.txt 0.058494177 
+28 Greenhouse_Gases_Observing_Satellite.txt 0.05606737 
+29 Emissions_trading.txt 0.05487011 
+30 Biosequestration.txt 0.054806825 
+31 International_Maritime_Organization.txt 0.054399237 
+32 Mollusca.txt 0.053752452 
+33 Total_equivalent_warming_impact.txt 0.052978687 
+34 Greenhouse_gas_inventory.txt 0.052446216 
+35 Coral.txt 0.052039757 
+36 Carbon_dioxide_equivalent.txt 0.0519083 
+37 Soybean.txt 0.05048555 
+38 Human_impact_on_the_environment.txt 0.050456703 
+39 Air_gun.txt 0.050147396 
+40 Kyoto_Protocol.txt 0.048579823 
+41 Free-air concentration enrichment.txt 0.048247777 
+42 Methanogenesis.txt 0.047376018 
+43 Sulfur_hexafluoride.txt 0.047376018 
+44 Bacteria.txt 0.047033396 
+45 Paleoclimatology.txt 0.044842273 
+46 Methane.txt 0.043321904 
+47 Environmental_impact_of_aviation.txt 0.042508677 
+48 Emission_Reduction_Unit.txt 0.042382948 
+49 Avoiding Dangerous Climate Change (2005 conference).txt 0.042050526 
+50 Refrigerant.txt 0.041454013 
+51 Synthetic_fuel.txt 0.041028835 
+52 Coal pollution mitigation.txt 0.040583592 
+53 Fossil_fuel.txt 0.040583592 
+54 Greenhouse gas footprint.txt 0.04041253 
+55 United States Department of Energy.txt 0.04008229 
+56 Climate_change.txt 0.03867264 
+57 Surface_runoff.txt 0.038505636 
+58 Perfluorotributylamine.txt 0.036704708 
+59 Diesel_fuel.txt 0.03626616 
+60 Efficient_energy_use.txt 0.03626616 
+61 Planetary boundaries.txt 0.035962094 
+62 NOx.txt 0.035532013 
+63 Carbon emission trading.txt 0.03381966 
+64 Flatulence.txt 0.03381966 
+65 Amine.txt 0.033773445 
+66 Carbon_diet.txt 0.03350666 
+67 Global_warming_potential.txt 0.03350666 
+68 Biogas.txt 0.03239616 
+69 Low-carbon diet.txt 0.03211662 
+70 Radiative_forcing.txt 0.03211662 
+71 Climate_footprint.txt 0.03178721 
+72 Emission intensity.txt 0.03178721 
+73 Global_warming.txt 0.031780314 
+74 Carbon_sequestration.txt 0.030660784 
+75 Nitrous_oxide.txt 0.030660784 
+76 Calcium_reactor.txt 0.030461809 
+77 Blast_furnace.txt 0.030059319 
+78 Trace_gas.txt 0.029969268 
+79 Biodiesel.txt 0.029753385 
+80 Anthropocene.txt 0.029610008 
+81 Coal liquefaction.txt 0.029610008 
+82 Coccolithophore.txt 0.028630208 
+83 Nuclear_power.txt 0.02840027 
+84 Ecosystem_services.txt 0.028002486 
+85 Fly_ash.txt 0.028002486 
+86 Chicago_Climate_Exchange.txt 0.02752853 
+87 Joint_Implementation.txt 0.02752853 
+88 Telecommuting.txt 0.027227595 
+89 Coffee.txt 0.026918683 
+90 Maize.txt 0.026918683 
+91 Anaerobic_digestion.txt 0.026828185 
+92 Gassnova.txt 0.026489343 
+93 List_of_countries_by_carbon_dioxide_emissions.txt 0.026489343 
+94 List_of_countries_by_carbon_dioxide_emissions_per_capita.txt 0.026489343 
+95 Open_Carbon_World.txt 0.026489343 
+96 Coal.txt 0.02615799 
+97 Deforestation.txt 0.025993144 
+98 Carbon_accounting.txt 0.02595415 
+99 Sierra_Club.txt 0.025670422 
+100 Carbon capture and storage.txt 0.02521382 

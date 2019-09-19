@@ -1,0 +1,56 @@
+1 Carbon_diet.txt 0.19853532 
+2 Caulk.txt 0.05081696 
+3 Carbon_accounting.txt 0.040653568 
+4 Flexible_Mechanisms.txt 0.037342686 
+5 Weatherstripping.txt 0.035933018 
+6 Red_blood_cell.txt 0.031118905 
+7 Solar_panel.txt 0.031118905 
+8 Fraunhofer_Society.txt 0.028746413 
+9 Natural_capital.txt 0.028746413 
+10 Building_material.txt 0.02540848 
+11 Carbon_credit.txt 0.02540848 
+12 Input%E2%80%93output_model.txt 0.025153112 
+13 Supply_chain.txt 0.025153112 
+14 European Union Emission Trading Scheme.txt 0.024895124 
+15 Fuel.txt 0.02155981 
+16 Methanol.txt 0.02155981 
+17 Telecommuting.txt 0.02155981 
+18 Car.txt 0.020326784 
+19 Sustainability_accounting.txt 0.020326784 
+20 Kyoto_Protocol.txt 0.018671343 
+21 Mineral.txt 0.018671343 
+22 Sustainability.txt 0.018671343 
+23 BASF.txt 0.017966509 
+24 Boiler_(power_generation).txt 0.017966509 
+25 Emissions_trading.txt 0.017966509 
+26 Fischer%E2%80%93Tropsch_process.txt 0.017966509 
+27 Flatulence.txt 0.017966509 
+28 Gasification.txt 0.017966509 
+29 Greenhouse_gas_emissions_accounting.txt 0.017966509 
+30 LNG carrier.txt 0.017966509 
+31 Reef_aquarium.txt 0.017966509 
+32 Hybrid electric vehicle.txt 0.015559453 
+33 Amino_acid.txt 0.0143732065 
+34 Carbon_footprint.txt 0.0143732065 
+35 Compressed_air_energy_storage.txt 0.0143732065 
+36 Efficient_energy_use.txt 0.0143732065 
+37 Enzyme.txt 0.0143732065 
+38 Nonprofit_organization.txt 0.0143732065 
+39 Rocket propellant.txt 0.0143732065 
+40 Social science.txt 0.0143732065 
+41 Clean_Development_Mechanism.txt 0.012576556 
+42 Echinoderm.txt 0.012576556 
+43 Natural gas vehicle.txt 0.012576556 
+44 Oxygen.txt 0.012576556 
+45 Sustainable_development.txt 0.012576556 
+46 World_Health_Organization.txt 0.012576556 
+47 Algeria.txt 0.010779905 
+48 Dinosaur.txt 0.010779905 
+49 Gasoline.txt 0.010779905 
+50 Renewable_energy.txt 0.010779905 
+51 Silicon.txt 0.010779905 
+52 Wind_power.txt 0.010779905 
+53 Benjamin_Franklin.txt 0.008983254 
+54 Climate change mitigation.txt 0.008983254 
+55 Switzerland.txt 0.008983254 
+56 International_Space_Station.txt 0.0071866033 

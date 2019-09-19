@@ -1,0 +1,100 @@
+1 Carl_Sagan.txt 0.21964979 
+2 Natural_capital.txt 0.1444401 
+3 Food_miles.txt 0.13108301 
+4 Alcoholic drink.txt 0.10873815 
+5 Winemaking.txt 0.07222005 
+6 Goods_and_services.txt 0.06398176 
+7 Greenhouse_debt.txt 0.06341201 
+8 Wine.txt 0.06319255 
+9 Greenhouse_effect.txt 0.046554953 
+10 List_of_countries_by_greenhouse_gas_emissions_per_capita.txt 0.04537394 
+11 Greenhouse_Gases_Observing_Satellite.txt 0.042443432 
+12 Total_equivalent_warming_impact.txt 0.040105276 
+13 Greenhouse_gas_inventory.txt 0.039702196 
+14 Carbon_dioxide_equivalent.txt 0.039294988 
+15 Popular_Science.txt 0.036561005 
+16 Rice.txt 0.0352519 
+17 Organic_farming.txt 0.033436544 
+18 Emission_Reduction_Unit.txt 0.03208422 
+19 Avoiding Dangerous Climate Change (2005 conference).txt 0.031832572 
+20 Greenhouse gas.txt 0.030793205 
+21 Greenhouse gas footprint.txt 0.030592598 
+22 Perfluorotributylamine.txt 0.027785748 
+23 Atom.txt 0.027021436 
+24 Methanol.txt 0.026744287 
+25 Carbon_diet.txt 0.025364805 
+26 Global_warming_potential.txt 0.025364805 
+27 Orange (fruit).txt 0.025214754 
+28 Low-carbon diet.txt 0.024312532 
+29 Radiative_forcing.txt 0.024312532 
+30 Climate_footprint.txt 0.024063166 
+31 Emission intensity.txt 0.024063166 
+32 Global_warming.txt 0.024057943 
+33 Calcium_carbonate.txt 0.022850629 
+34 Trace_gas.txt 0.02268697 
+35 Carbonated water.txt 0.022286905 
+36 The Coca-Cola Company.txt 0.022286905 
+37 Chicago_Climate_Exchange.txt 0.020839311 
+38 Joint_Implementation.txt 0.020839311 
+39 Carbon_credit.txt 0.020052638 
+40 Climate_engineering.txt 0.020052638 
+41 Gassnova.txt 0.020052638 
+42 List_of_countries_by_carbon_dioxide_emissions.txt 0.020052638 
+43 List_of_countries_by_carbon_dioxide_emissions_per_capita.txt 0.020052638 
+44 Open_Carbon_World.txt 0.020052638 
+45 Carbon_accounting.txt 0.019647494 
+46 United Nations Framework Convention on Climate Change.txt 0.018757526 
+47 Yeast.txt 0.018280502 
+48 2010 United Nations Climate Change Conference.txt 0.017935624 
+49 Carbon_Disclosure_Project.txt 0.017935624 
+50 Climate change mitigation.txt 0.01790056 
+51 Soft drink.txt 0.017829524 
+52 Atmospheric_methane.txt 0.017481485 
+53 Carbon dioxide in Earth's atmosphere.txt 0.017481485 
+54 Carbon neutrality.txt 0.017366093 
+55 IPCC_Second_Assessment_Report.txt 0.017191557 
+56 Land_use,_land-use_change,_and_forestry.txt 0.017015226 
+57 Biosequestration.txt 0.016626768 
+58 Intergovernmental_Panel_on_Climate_Change.txt 0.016459662 
+59 Carbon-based_fuel.txt 0.01604211 
+60 Carbon_offset.txt 0.01604211 
+61 Carbon_Sequestration_Leadership_Forum.txt 0.01604211 
+62 Climate_change_mitigation_scenarios.txt 0.01604211 
+63 Flue_gas.txt 0.01604211 
+64 World_Scientists%27_Warning_to_Humanity.txt 0.01604211 
+65 Food.txt 0.01599544 
+66 New_South_Wales.txt 0.01599544 
+67 Carbon-neutral fuel.txt 0.015693672 
+68 Beer.txt 0.015600833 
+69 Coca-Cola.txt 0.015600833 
+70 Flexible_Mechanisms.txt 0.01473562 
+71 Azolla event.txt 0.014179355 
+72 EcoCute.txt 0.014179355 
+73 Methanotroph.txt 0.014179355 
+74 Sustainable_automotive_air_conditioning.txt 0.014179355 
+75 Kyoto_Protocol.txt 0.014108281 
+76 2011 United Nations Climate Change Conference.txt 0.014036845 
+77 Anaerobic_oxidation_of_methane.txt 0.014036845 
+78 Group 14 hydride.txt 0.014036845 
+79 Hypermobility_(travel).txt 0.014036845 
+80 Kaya_identity.txt 0.014036845 
+81 California_Air_Resources_Board.txt 0.013892874 
+82 Global_Methane_Initiative.txt 0.013892874 
+83 IPCC_Third_Assessment_Report.txt 0.013892874 
+84 Landfill_gas.txt 0.013892874 
+85 Methanogen.txt 0.013892874 
+86 Ice age.txt 0.013591118 
+87 Emission_standard.txt 0.013451718 
+88 Terraforming.txt 0.013451718 
+89 Carbon_capture_and_storage_(timeline).txt 0.013263572 
+90 Water vapor.txt 0.013263572 
+91 European Union Emission Trading Scheme.txt 0.0126824025 
+92 Human_impact_on_the_environment.txt 0.012652642 
+93 United States.txt 0.012607377 
+94 Emissions_trading.txt 0.012532897 
+95 Life-cycle_greenhouse-gas_emissions_of_energy_sources.txt 0.012279684 
+96 Methane.txt 0.012279684 
+97 Arctic methane emissions.txt 0.012156266 
+98 Carbon_cycle.txt 0.012156266 
+99 Ruminant.txt 0.012156266 
+100 Acrylic_acid.txt 0.012031583 

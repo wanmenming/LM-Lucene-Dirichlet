@@ -1,0 +1,100 @@
+1 Natural_capital.txt 0.17771958 
+2 Carl_Sagan.txt 0.15308616 
+3 Wine.txt 0.12001927 
+4 Winemaking.txt 0.08885979 
+5 Alcoholic drink.txt 0.07543506 
+6 Organic_farming.txt 0.061083883 
+7 Orange (fruit).txt 0.052081186 
+8 United States.txt 0.05124166 
+9 Green_conventions.txt 0.044769555 
+10 Goods_and_services.txt 0.04438615 
+11 Calcium_carbonate.txt 0.0397818 
+12 The Coca-Cola Company.txt 0.038999658 
+13 New_South_Wales.txt 0.038821597 
+14 Findhorn_Ecovillage.txt 0.03706917 
+15 Green_chemistry.txt 0.033577166 
+16 University_of_British_Columbia.txt 0.033542756 
+17 Food_miles.txt 0.032948174 
+18 Nick_Clegg.txt 0.032350488 
+19 Chief_green_officer.txt 0.031984918 
+20 Runoff_footprint.txt 0.03128368 
+21 Humphry_Davy.txt 0.030500332 
+22 Coalition_government.txt 0.029823754 
+23 Coca-Cola.txt 0.029082073 
+24 Coffee.txt 0.028822133 
+25 Wyoming.txt 0.028190106 
+26 Food.txt 0.027847262 
+27 Benjamin_Franklin.txt 0.027793739 
+28 George_W._Bush.txt 0.02695874 
+29 Rice.txt 0.02694764 
+30 London.txt 0.026825175 
+31 Storage of wine.txt 0.026181377 
+32 Luxembourg.txt 0.025465956 
+33 Italy.txt 0.025430046 
+34 Popular_Science.txt 0.025363514 
+35 Biogas.txt 0.024327287 
+36 Parliamentary_Office_of_Science_and_Technology.txt 0.023516282 
+37 Building_material.txt 0.023101412 
+38 Swahili_language.txt 0.022441182 
+39 Wind_power.txt 0.019851387 
+40 Home.txt 0.019675132 
+41 Royal_Society_of_Chemistry.txt 0.019004026 
+42 Atom.txt 0.018745616 
+43 Carbon emission trading.txt 0.018700983 
+44 Carbon_capture_and_storage_(timeline).txt 0.018700983 
+45 Emissions_trading.txt 0.018700983 
+46 Permafrost.txt 0.018700983 
+47 Methanol.txt 0.018553348 
+48 Water_scarcity.txt 0.01848113 
+49 Decaffeination.txt 0.018133745 
+50 Scotland.txt 0.018092372 
+51 West_Virginia.txt 0.018092372 
+52 Cement.txt 0.017637406 
+53 Wood.txt 0.017637406 
+54 Switzerland.txt 0.017618816 
+55 Algeria.txt 0.017594734 
+56 Plant.txt 0.017096657 
+57 Climate change mitigation.txt 0.017049873 
+58 Carbon_cycle_re-balancing.txt 0.016154822 
+59 Kyoto_Protocol.txt 0.016067037 
+60 2010 United Nations Climate Change Conference.txt 0.015828429 
+61 Carbonated water.txt 0.015461124 
+62 Carbon_footprint.txt 0.014960788 
+63 Scanning electron microscope.txt 0.014960788 
+64 Moray.txt 0.014720455 
+65 Algae.txt 0.01456176 
+66 Cyanobacteria.txt 0.01456176 
+67 International_Resource_Panel.txt 0.013990486 
+68 Manure.txt 0.013990486 
+69 Spectra_Energy.txt 0.013707822 
+70 Photosynthesis.txt 0.013558267 
+71 Hybrid electric vehicle.txt 0.013389198 
+72 Biodiesel.txt 0.013228055 
+73 Cattle.txt 0.013228055 
+74 Greenpeace.txt 0.013228055 
+75 North East England.txt 0.013223593 
+76 Alternative_energy.txt 0.013090689 
+77 Caffeine.txt 0.013090689 
+78 Planetary boundaries.txt 0.013090689 
+79 United_States_Army.txt 0.013090689 
+80 Bund_f%C3%BCr_Umwelt_und_Naturschutz_Deutschland.txt 0.012923858 
+81 Intentional_community.txt 0.012748288 
+82 Peter_Newman_(environmental_scientist).txt 0.012748288 
+83 Teesside.txt 0.012748288 
+84 University_of_Newcastle_(Australia).txt 0.012748288 
+85 Yeast.txt 0.012681757 
+86 Industrial_Revolution.txt 0.01247153 
+87 Soft drink.txt 0.012368899 
+88 IPCC_Third_Assessment_Report.txt 0.012019201 
+89 PubMed_Central.txt 0.012019201 
+90 United States Environmental Protection Agency.txt 0.012019201 
+91 Domestic canary.txt 0.011423185 
+92 Land development.txt 0.011423185 
+93 Spremberg.txt 0.011308376 
+94 Supercritical_drying.txt 0.011308376 
+95 Michael_Faraday.txt 0.011242933 
+96 Energy_conversion_efficiency.txt 0.011192389 
+97 Plantation.txt 0.011040341 
+98 Beer.txt 0.010822786 
+99 2000-watt_society.txt 0.010623573 
+100 Hot_spring.txt 0.010623573 

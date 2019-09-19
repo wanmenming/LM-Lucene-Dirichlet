@@ -1,0 +1,145 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 5.Generally, the two search engine provide similar Top5. There are documents overlap for each query. Sometimes, I think that LM_Dirichlet performance better. The documents I get in top5 are more relative with the query topic, probably because the LM_Dirichlet rank highly the documents that really cover the query words. Hence, if the topic of query is not clear just by query words, lucene performance better.\
+\
+6. The documents for shorter query will get higher rank score than longer query. Both of them has few documents overlap. The result ordering changes in them. The observation is more clear in lucence than LM_Dirichlet.\
+\
+\
+\
+Below are the top5 list:\
+\
+Query1: carbon emission\
+\
+Top5 of lucene:\
+1 Voluntary Emission Reduction.txt 0.6746367 \
+2 Weighted_average_cost_of_carbon.txt 0.5029582 \
+3 Emission intensity.txt 0.49699903 \
+4 Certified_Emission_Reduction.txt 0.43325272 \
+5 Kaya_identity.txt 0.40782112 \
+\
+Top5 of LM_Dilichalet:\
+1 Carbon_cycle.txt -7.082500\
+2 Carbon_fixation.txt -8.041051\
+3 Atmospheric_carbon_dioxide.txt -8.297286\
+4 Carbon_intensity.txt -8.834401\
+5 Carbon_dioxide_scrubber.txt -9.073753\
+\
+Q2 cutting carbon emission\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 Top5 of lucene:\
+1 Voluntary Emission Reduction.txt 0.29157797 \
+2 Carbon_dioxide_laser.txt 0.22843625 \
+3 Weighted_average_cost_of_carbon.txt 0.2173785 \
+4 Emission intensity.txt 0.21480297 \
+5 Carbon_offset.txt 0.21425468 \
+\
+Top5 of LM_Dilichalet:\
+1 Carbon_cycle.txt -10.643172\
+2 Carbon_fixation.txt -12.098702\
+3 Atmospheric_carbon_dioxide.txt -12.465753\
+4 Carbon_intensity.txt -13.308650\
+5 Carbon_dioxide_scrubber.txt -13.673285\
+\
+Q3 flexible dieting\
+\
+Top5 of lucene:\
+1 Carbon_diet.txt 0.19853532 \
+2 Caulk.txt 0.05081696 \
+3 Carbon_accounting.txt 0.040653568 \
+4 Flexible_Mechanisms.txt 0.037342686 \
+5 Weatherstripping.txt 0.035933018 \
+\
+Top5 of LM_Dilichalet:\
+1 Flexible_Mechanisms.txt -7.045997\
+2 Caulking.txt -7.092354\
+3 Carbon_accounting.txt -7.150868\
+4 Enterprise_carbon_accounting.txt -7.150868\
+5 Carbon_credit.txt -7.380586\
+\
+Q4 flexible dieting and vegetarianism\
+\
+Top5 of lucene:\
+1 Carbon_diet.txt 0.099332914 \
+2 Algae.txt 0.031041533 \
+3 Caulk.txt 0.02542518 \
+4 Carbon_accounting.txt 0.020340145 \
+5 Flexible_Mechanisms.txt 0.018683616 \
+\
+Top5 of LM_Dilichalet:\
+1 Education_for_Sustainable_Development.txt -9.361920\
+2 National_Oceanic_and_Atmospheric_Administration.txt -9.427819\
+3 Italy.txt -9.616311\
+4 Environmental_impact_of_paper.txt -9.698342\
+5 Sustainability.txt -9.724971\
+\
+Q5 information on pest control in greenhouse\
+\
+Top5 of lucene:\
+1 Whitefly.txt 0.27612758 \
+2 Agriculture.txt 0.17601815 \
+3 Rice.txt 0.16372682 \
+4 Organic_farming.txt 0.1560391 \
+5 BASF.txt 0.12887292 \
+\
+Top5 of LM_Dilichalet:\
+1 Population_and_housing_censuses_by_country.txt -18.912911\
+2 Hybrid-electric_vehicles.txt -19.656318\
+3 Luxembourg.txt -20.723290\
+4 Industrial_Revolution.txt -20.757549\
+5 Urbanization.txt -20.807535\
+\
+Q6 pest control greenhouse\
+\
+Top5 of lucene:\
+1 Whitefly.txt 0.27560145 \
+2 Agriculture.txt 0.2518372 \
+3 Rice.txt 0.23425138 \
+4 Organic_farming.txt 0.1570893 \
+5 Spider_mite.txt 0.15226339 \
+\
+Top5 of LM_Dilichalet:\
+1 Greenhouse_effect.txt -12.588797\
+2 Birth_control.txt -12.730609\
+3 Greenhouse_Gas.txt -13.305814\
+4 GHG_footprint.txt -14.522069\
+5 Greenhouse_debt.txt -15.288907\
+\
+Q7 greenhouse apples apple\
+\
+Top5 of lucene:\
+1 Carl_Sagan.txt 0.21964979 \
+2 Natural_capital.txt 0.1444401 \
+3 Food_miles.txt 0.13108301 \
+4 Alcoholic drink.txt 0.10873815 \
+5 Winemaking.txt 0.07222005 \
+\
+Top5 of LM_Dilichalet:\
+1 Greenhouse_effect.txt -12.599298\
+2 Birth_control.txt -12.730609\
+3 Greenhouse_Gas.txt -13.310923\
+4 GHG_footprint.txt -14.541050\
+5 Greenhouse_debt.txt -15.339376\
+\
+Q8 green house apples apple\
+\
+Top5 of lucene:\
+1 Natural_capital.txt 0.17771958 \
+2 Carl_Sagan.txt 0.15308616 \
+3 Wine.txt 0.12001927 \
+4 Winemaking.txt 0.08885979 \
+5 Alcoholic drink.txt 0.07543506 \
+6 Organic_farming.txt 0.061083883 \
+\
+Top5 of LM_Dilichalet:\
+1 Greenhouse_effect.txt -12.599298\
+2 Birth_control.txt -12.730609\
+3 Greenhouse_Gas.txt -13.310923\
+4 GHG_footprint.txt -14.541050\
+5 Greenhouse_debt.txt -15.339376\
+}

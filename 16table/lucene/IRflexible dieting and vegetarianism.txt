@@ -1,0 +1,57 @@
+1 Carbon_diet.txt 0.099332914 
+2 Algae.txt 0.031041533 
+3 Caulk.txt 0.02542518 
+4 Carbon_accounting.txt 0.020340145 
+5 Flexible_Mechanisms.txt 0.018683616 
+6 Weatherstripping.txt 0.017978318 
+7 Red_blood_cell.txt 0.015569679 
+8 Solar_panel.txt 0.015569679 
+9 Fraunhofer_Society.txt 0.014382655 
+10 Natural_capital.txt 0.014382655 
+11 Building_material.txt 0.01271259 
+12 Carbon_credit.txt 0.01271259 
+13 Input%E2%80%93output_model.txt 0.012584823 
+14 Supply_chain.txt 0.012584823 
+15 European Union Emission Trading Scheme.txt 0.012455745 
+16 Fuel.txt 0.010786991 
+17 Methanol.txt 0.010786991 
+18 Telecommuting.txt 0.010786991 
+19 Car.txt 0.010170072 
+20 Sustainability_accounting.txt 0.010170072 
+21 Kyoto_Protocol.txt 0.009341808 
+22 Mineral.txt 0.009341808 
+23 Sustainability.txt 0.009341808 
+24 BASF.txt 0.008989159 
+25 Boiler_(power_generation).txt 0.008989159 
+26 Emissions_trading.txt 0.008989159 
+27 Fischer%E2%80%93Tropsch_process.txt 0.008989159 
+28 Flatulence.txt 0.008989159 
+29 Gasification.txt 0.008989159 
+30 Greenhouse_gas_emissions_accounting.txt 0.008989159 
+31 LNG carrier.txt 0.008989159 
+32 Reef_aquarium.txt 0.008989159 
+33 Hybrid electric vehicle.txt 0.0077848397 
+34 Amino_acid.txt 0.0071913274 
+35 Carbon_footprint.txt 0.0071913274 
+36 Compressed_air_energy_storage.txt 0.0071913274 
+37 Efficient_energy_use.txt 0.0071913274 
+38 Enzyme.txt 0.0071913274 
+39 Nonprofit_organization.txt 0.0071913274 
+40 Rocket propellant.txt 0.0071913274 
+41 Social science.txt 0.0071913274 
+42 Clean_Development_Mechanism.txt 0.0062924116 
+43 Echinoderm.txt 0.0062924116 
+44 Natural gas vehicle.txt 0.0062924116 
+45 Oxygen.txt 0.0062924116 
+46 Sustainable_development.txt 0.0062924116 
+47 World_Health_Organization.txt 0.0062924116 
+48 Algeria.txt 0.0053934953 
+49 Dinosaur.txt 0.0053934953 
+50 Gasoline.txt 0.0053934953 
+51 Renewable_energy.txt 0.0053934953 
+52 Silicon.txt 0.0053934953 
+53 Wind_power.txt 0.0053934953 
+54 Benjamin_Franklin.txt 0.0044945795 
+55 Climate change mitigation.txt 0.0044945795 
+56 Switzerland.txt 0.0044945795 
+57 International_Space_Station.txt 0.0035956637 

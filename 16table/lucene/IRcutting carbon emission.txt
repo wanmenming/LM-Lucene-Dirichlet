@@ -1,0 +1,100 @@
+1 Voluntary Emission Reduction.txt 0.29157797 
+2 Carbon_dioxide_laser.txt 0.22843625 
+3 Weighted_average_cost_of_carbon.txt 0.2173785 
+4 Emission intensity.txt 0.21480297 
+5 Carbon_offset.txt 0.21425468 
+6 Oxy-fuel combustion process.txt 0.20331956 
+7 Carbon.txt 0.20262855 
+8 Carbon_footprint.txt 0.20115599 
+9 Greenhouse gas footprint.txt 0.19592598 
+10 Emissions_trading.txt 0.19373271 
+11 Certified_Emission_Reduction.txt 0.1872518 
+12 Carbon-based_fuel.txt 0.17687534 
+13 Kaya_identity.txt 0.17626028 
+14 Kyoto_Protocol.txt 0.16999999 
+15 Joint_Implementation.txt 0.16770384 
+16 Emission_Reduction_Unit.txt 0.1638436 
+17 Biosequestration.txt 0.16249818 
+18 Climate change mitigation.txt 0.16159016 
+19 Carbon_emission_label.txt 0.1415905 
+20 Sugarcane.txt 0.13436705 
+21 Greenhouse_gas_inventory.txt 0.12743248 
+22 Clean_Development_Mechanism.txt 0.1254345 
+23 Carbon emission trading.txt 0.12525001 
+24 Carbon_dioxide_equivalent.txt 0.12384473 
+25 Chicago_Climate_Exchange.txt 0.123414084 
+26 Bio-energy_with_carbon_capture_and_storage.txt 0.12017304 
+27 Emission_standard.txt 0.11858451 
+28 Flexible_Mechanisms.txt 0.11599579 
+29 Biofuel.txt 0.11200756 
+30 Carbon_credit.txt 0.11136304 
+31 Carbon-neutral fuel.txt 0.10956906 
+32 European Union Emission Trading Scheme.txt 0.10721511 
+33 Carbon neutrality.txt 0.10639342 
+34 Carbon sink.txt 0.105451465 
+35 California_Air_Resources_Board.txt 0.10531366 
+36 BedZED.txt 0.10217741 
+37 Peat.txt 0.10049108 
+38 Infrared spectroscopy.txt 0.097822614 
+39 Carbon dioxide removal.txt 0.09439701 
+40 Carbon_accounting.txt 0.094079524 
+41 Low-carbon diet.txt 0.0938461 
+42 Efficient_energy_use.txt 0.09308009 
+43 New European Driving Cycle.txt 0.092726886 
+44 Carbon_diet.txt 0.09223678 
+45 Exhaust_gas.txt 0.09161691 
+46 Carbon_capture_and_storage_(timeline).txt 0.090710565 
+47 Land_use,_land-use_change,_and_forestry.txt 0.09017593 
+48 Carbon_lock-in.txt 0.087001726 
+49 Atmospheric_methane.txt 0.08620002 
+50 Lake_Monoun.txt 0.08410361 
+51 Beer.txt 0.081445076 
+52 Curiosity_(rover).txt 0.081327826 
+53 Carbon_monoxide.txt 0.0810252 
+54 Carbon_Disclosure_Project.txt 0.08081879 
+55 Greenhouse gas.txt 0.0798655 
+56 North East of England Process Industry Cluster.txt 0.07979174 
+57 Coal pollution mitigation.txt 0.07967508 
+58 Carbon_capture_and_storage_in_Australia.txt 0.07860753 
+59 Integrated gasification combined cycle.txt 0.07794462 
+60 Joseph_Black.txt 0.07760401 
+61 Dry_ice.txt 0.07592311 
+62 Fossil fuel power station.txt 0.07555458 
+63 Argon.txt 0.07289449 
+64 Hybrid electric vehicle.txt 0.07198669 
+65 Agriculture.txt 0.07116185 
+66 Baker%27s_yeast.txt 0.070370376 
+67 Sulfur_hexafluoride.txt 0.070370376 
+68 Wind_power.txt 0.06981006 
+69 Carbon_dioxide.txt 0.068337075 
+70 Boundary_Dam_Power_Station.txt 0.06820367 
+71 Scanning electron microscope.txt 0.06738675 
+72 Climate_change_mitigation_scenarios.txt 0.066746406 
+73 Methanol_economy.txt 0.066746406 
+74 Carbon_sequestration.txt 0.06663994 
+75 Greenhouse_gas_emissions_accounting.txt 0.06600724 
+76 Oxygen.txt 0.06589717 
+77 Avoiding Dangerous Climate Change (2005 conference).txt 0.06578261 
+78 Life-cycle_greenhouse-gas_emissions_of_energy_sources.txt 0.06557502 
+79 Industrial_gas.txt 0.06472548 
+80 United Nations Framework Convention on Climate Change.txt 0.062607385 
+81 Check valve.txt 0.061574083 
+82 Oxygen_mask.txt 0.061574083 
+83 Welding.txt 0.061574083 
+84 Permafrost.txt 0.06148098 
+85 Radiative_forcing.txt 0.06137377 
+86 Human_impact_on_the_environment.txt 0.060940564 
+87 Miner.txt 0.06048905 
+88 Alkane.txt 0.06005859 
+89 2010 United Nations Climate Change Conference.txt 0.057927456 
+90 Environmental_impact_of_aviation.txt 0.056685075 
+91 Greenhouse_effect.txt 0.055665515 
+92 Life-cycle assessment.txt 0.055583477 
+93 Global_warming.txt 0.055279307 
+94 1,1,1,2-Tetrafluoroethane.txt 0.05481884 
+95 EcoCute.txt 0.05481884 
+96 Molecule.txt 0.054267883 
+97 Paleocene–Eocene Thermal Maximum.txt 0.05362782 
+98 Southern_Company.txt 0.053209722 
+99 Climate_engineering.txt 0.05272427 
+100 Carbon capture and storage.txt 0.052495968 

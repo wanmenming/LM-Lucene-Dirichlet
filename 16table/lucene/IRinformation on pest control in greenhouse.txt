@@ -1,0 +1,100 @@
+1 Whitefly.txt 0.27612758 
+2 Agriculture.txt 0.17601815 
+3 Rice.txt 0.16372682 
+4 Organic_farming.txt 0.1560391 
+5 BASF.txt 0.12887292 
+6 Spider_mite.txt 0.10642242 
+7 Open_Carbon_World.txt 0.09271535 
+8 Land_use.txt 0.09139548 
+9 Ecosystem.txt 0.091010034 
+10 United Nations Framework Convention on Climate Change.txt 0.087474644 
+11 Nonpoint_source_pollution.txt 0.08379847 
+12 Carbon_credit.txt 0.07900541 
+13 Climate_engineering.txt 0.07900541 
+14 International_Maritime_Organization.txt 0.077492975 
+15 Climate change mitigation.txt 0.07560785 
+16 Paleoclimatology.txt 0.07207182 
+17 Water_pollution.txt 0.07132441 
+18 Biodiversity.txt 0.070190385 
+19 List_of_countries_by_carbon_dioxide_emissions_per_capita.txt 0.069179416 
+20 Kyoto_Protocol.txt 0.06865068 
+21 Carbon_Disclosure_Project.txt 0.06714459 
+22 Ecological_economics.txt 0.06368337 
+23 Emissions_trading.txt 0.063554324 
+24 ETHANE.txt 0.06256621 
+25 Greenhouse gas.txt 0.06218472 
+26 Implementation.txt 0.061383985 
+27 Ecosystem_services.txt 0.061347462 
+28 Human_impact_on_the_environment.txt 0.061338596 
+29 OCLC.txt 0.058611985 
+30 Greenhouse_debt.txt 0.058547556 
+31 National_Institute_for_Occupational_Safety_and_Health.txt 0.058258835 
+32 Emission intensity.txt 0.057294745 
+33 Fossil_fuel.txt 0.05701583 
+34 Synthetic_fuel.txt 0.056655195 
+35 Decision-making.txt 0.05630959 
+36 Kaya_identity.txt 0.05602994 
+37 Carbon_Sequestration_Leadership_Forum.txt 0.05534353 
+38 Thomson Corporation.txt 0.05481892 
+39 Telecommuting.txt 0.053604517 
+40 Environmental_impact_of_aviation.txt 0.053005844 
+41 Plantation.txt 0.052574754 
+42 Accounting.txt 0.05225933 
+43 Efficient_energy_use.txt 0.051661983 
+44 Orange (fruit).txt 0.05150139 
+45 IPCC_Third_Assessment_Report.txt 0.051374804 
+46 IPCC_Second_Assessment_Report.txt 0.05123584 
+47 Climate_change.txt 0.050189774 
+48 Carbon_accounting.txt 0.04914087 
+49 California_Air_Resources_Board.txt 0.04672674 
+50 Landfill_gas.txt 0.04672674 
+51 Forsmark_Nuclear_Power_Plant.txt 0.046490867 
+52 Coal.txt 0.046295576 
+53 Nucleic_acid.txt 0.046229728 
+54 ASHRAE.txt 0.045530077 
+55 Emission_standard.txt 0.04524298 
+56 Biodiesel.txt 0.043723073 
+57 Anthropocene.txt 0.043099776 
+58 Greenhouse_effect.txt 0.042983636 
+59 Intergovernmental_Panel_on_Climate_Change.txt 0.042974968 
+60 Food_miles.txt 0.04297106 
+61 Coccolithophore.txt 0.042072542 
+62 List_of_countries_by_greenhouse_gas_emissions_per_capita.txt 0.041893218 
+63 Atmospheric_methane.txt 0.040883705 
+64 Nuclear_power.txt 0.04021621 
+65 George_W._Bush.txt 0.039737206 
+66 Greenhouse_Gases_Observing_Satellite.txt 0.039187517 
+67 Carbon capture and storage.txt 0.038490787 
+68 Biosequestration.txt 0.03830648 
+69 Parliamentary_Office_of_Science_and_Technology.txt 0.03820891 
+70 Sustainability_accounting.txt 0.0380694 
+71 Mollusca.txt 0.03756954 
+72 Deforestation.txt 0.037481613 
+73 Total_equivalent_warming_impact.txt 0.037028722 
+74 Greenhouse_gas_inventory.txt 0.036656566 
+75 Petroleum.txt 0.036575533 
+76 Anaerobic_digestion.txt 0.036566343 
+77 Coral.txt 0.036372475 
+78 Natural_gas.txt 0.03634803 
+79 Life-cycle assessment.txt 0.036327474 
+80 Carbon_dioxide_equivalent.txt 0.036280595 
+81 Soybean.txt 0.035286188 
+82 Air_gun.txt 0.035049837 
+83 Earth_Overshoot_Day.txt 0.034589708 
+84 International_Resource_Panel.txt 0.034589708 
+85 Chemical_kinetics.txt 0.034545235 
+86 Free-air concentration enrichment.txt 0.03372212 
+87 Carbon_monoxide.txt 0.033658035 
+88 Irrigation.txt 0.033658035 
+89 Biofuel.txt 0.03325923 
+90 Methanogenesis.txt 0.033112817 
+91 Sulfur_hexafluoride.txt 0.033112817 
+92 Bacteria.txt 0.032873347 
+93 Carbon_capture_and_storage_(timeline).txt 0.032529872 
+94 Advanced Gas-cooled Reactor.txt 0.03199596 
+95 Atmosphere_of_Venus.txt 0.030731084 
+96 Life-cycle_greenhouse-gas_emissions_of_energy_sources.txt 0.030713044 
+97 Arterial blood gas test.txt 0.030353386 
+98 Methane.txt 0.030279253 
+99 Sandia_National_Laboratories.txt 0.030135753 
+100 World_Health_Organization.txt 0.029996362 
